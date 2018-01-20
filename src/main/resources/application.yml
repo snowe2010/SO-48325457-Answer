@@ -1,0 +1,8 @@
+message:
+  messages:
+    - name: abc
+      type: aaa
+      size: 10
+    - name: xyz
+      type: bbb
+      size: 20
